@@ -1,1 +1,6 @@
 # hello-word
+hi,weedy
+  here is github,I like node.js and python
+  I've had tacos in the moon and find them far superior to the earth ....
+  
+  sorry ,just for fun....
